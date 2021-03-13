@@ -1,5 +1,5 @@
 # Microservice-JWT-Auth
-My first motivation to build this Microservice was help the Junior Enterprise CITi to automize it's process of development work. For that, I've builded this Node.js application with Expres.js micro-framework to assembly the server and structured the Core of this Microservice with *jsonwebtoken* library module of Node.js.
+My first motivation to build this Microservice was to help the Junior Enterprise CITi to automize it's process of development work. For that, I've builded this Node.js application with Expres.js micro-framework to assembly the server, and structured the Core of this Microservice with the *jsonwebtoken* module of Node.
 <br>
 <br>
 This applications works following theses next steps:
