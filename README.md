@@ -29,7 +29,12 @@ If you have any feedback or improvements for this Microservice, please contact m
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-You will need to have npm or yarn installed on your machine.
+You will need to have npm or yarn installed on your machine and will be necessary to exist a **.env** file in the root of the project containing two variables:
+```bash
+PORT=
+SECRET=
+```
+The secret can be any string and, the port, one that is not being used at the moment.
 
 ### Installing
 To run the project for the **first** time you must follow this steps:
