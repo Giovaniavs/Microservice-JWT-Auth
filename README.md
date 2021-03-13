@@ -29,12 +29,7 @@ If you have any feedback or improvements for this Microservice, please contact m
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-You will need to have npm or yarn installed on your machine and will be necessary to exist a **.env** file in the root of the project containing two variables:
-```bash
-PORT=
-SECRET=
-```
-The secret can be any string and, the port, one that is not being used at the moment.
+You will need to have npm or yarn installed on your machine.
 
 ### Installing
 To run the project for the **first** time you must follow this steps:
@@ -44,11 +39,26 @@ To run the project for the **first** time you must follow this steps:
 git clone https://github.com/Giovaniavs/Microservice-JWT-Auth.git
 ```
 
-2. Install the dependencies and run the project
+2. Install the dependencies
 ```bash
-yarn install && yarn start
+yarn install
+```
+or just
+```bash
+yarn
 ```
 
+3. Add the **.env** file in the root of the project containing two variables:
+```bash
+PORT=
+SECRET=
+```
+Obs: Only me have the valid SECRET, if you wanna use this microservice, talk with me before!
+
+4. Run the project! Go to the root of the project and run the command:
+```bash
+yarn start
+```
 ---
 
 ## The Developer
