@@ -62,7 +62,7 @@ yarn start
 ---
 
 ## The Developer
-* **Giovani Albuquerque** - *Developer* - [Giovaniavs](https://github.com/Giovaniavs)
+* **Giovani Albuquerque** - *Full Stack Developer* - [Giovaniavs](https://github.com/Giovaniavs)
 
 <p align="right">
   Made by <b> The Giovani Albuquerque </b>
