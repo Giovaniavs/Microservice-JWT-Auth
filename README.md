@@ -53,7 +53,7 @@ yarn
 PORT=
 SECRET=
 ```
-Obs: Only me have the valid SECRET, if you wanna use this microservice, talk with me before!
+Obs: Only me have the valid SECRET, if you want to use this microservice, talk to me!
 
 4. Run the project! Go to the root of the project and run the command:
 ```bash
